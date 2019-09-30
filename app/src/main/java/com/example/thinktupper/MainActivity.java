@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //F EN EL CHAT
         //F que flipas
+        //F por nuestro reto
     }
 }
